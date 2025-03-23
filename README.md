@@ -1,7 +1,5 @@
 # Hand-Exoskeleton
-An assistive technology for the handicapped
-
-Exoskeleton device.
+An assistive technology for the handicapped.
 
 The idea of the project is the development of a hand exoskeleton that would assist a patient with limited hand mobility to perform some basic grasps. 
 The patient is a 60+ yo male, thumb amputee with zero or broken tendons on the fingers of his left hand. As a result, he can barely move some of his fingers. The movement of his wrist is weak and constrained.
